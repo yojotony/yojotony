@@ -2,7 +2,7 @@
 
 <h3 align="center">Senior Frontend & Backend Developer</h3>
 
-#### Experienced Frontend and Backend Developer with a specialization in blockchain technology and a strong focus on NFT projects. 
+#### Experienced front-end and back-end developers familiar with NFT projects.
 
 #### Passionate about creating efficient, scalable, and user-friendly web applications.
 
