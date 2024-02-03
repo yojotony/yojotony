@@ -3,7 +3,6 @@
 <h3 align="center">Senior Frontend & Backend Developer</h3>
 
 #### Experienced front-end and back-end developers familiar with NFT projects.
-
 #### Passionate about creating efficient, scalable, and user-friendly web applications.
 
 ## Technical Skills
